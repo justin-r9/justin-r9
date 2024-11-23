@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+# I'm currently a medical student working on becoming a web developer, so progress here is probably going to be pretty slow
 <!--
 **justin-r9/justin-r9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
